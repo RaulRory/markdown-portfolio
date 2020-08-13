@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**learning** is the soul of the business
+
+*This place closing by order of the* **R.Rory**
